@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770973109698",
+    "firebase_url": "https://companytask-b5af8.firebaseio.com",
+    "project_id": "companytask-b5af8",
+    "storage_bucket": "companytask-b5af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770973109698:android:d9e7b76b3f010e7c725a5b",
+        "android_client_info": {
+          "package_name": "com.imwasil.companytask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770973109698-i0aa6air9v0bgqjs88fvglb00g0dls7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imwasil.companytask",
+            "certificate_hash": "fa6f1e555f0be0b728eb70c6614a2107a163a801"
+          }
+        },
+        {
+          "client_id": "770973109698-30tb90391nlfrpok0t6arf12i1v6eh5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK2tCosB1fhMmRLSa-ELdUvl-nUlNlu8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770973109698-30tb90391nlfrpok0t6arf12i1v6eh5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

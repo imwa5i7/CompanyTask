@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CompanyTask</string>
+    <string name="add_image_from_gallery">Add Image from Gallery</string>
+    <string name="write_a_comment">Write a Comment</string>
+    <string name="send">Send</string>
+    <string name="list">List</string>
+</resources>
