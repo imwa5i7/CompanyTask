@@ -142,6 +142,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Toast.makeText(MainActivity.this, "Upload Complete", Toast.LENGTH_SHORT).show();
                 mProgress.setVisibility(View.INVISIBLE);
                 btnSend.setVisibility(View.VISIBLE);
+                edCommentBox.setText("");
+                imgView.setImageResource(R.drawable.add_image);
             }
         }).addOnFailureListener(new OnFailureListener() {
             @Override
